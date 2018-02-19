@@ -1,0 +1,3 @@
+[submodule "DBconnector"]
+	path = DBconnector
+	url = https://github.com/rojikbarna/DBconnector
